@@ -1,0 +1,5 @@
+smtp.mail.ru
+587
+muhammadiyor.shakirov@mail.ru
+VuqwBK3hFrbwkip5PTaj
+Auto
